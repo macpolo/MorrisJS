@@ -12,5 +12,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: macpolo
-        password: Daniela75015/
+        password: Daniela75
         server-dir : public_html/
